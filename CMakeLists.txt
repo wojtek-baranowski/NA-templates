@@ -8,3 +8,5 @@ include_directories(vendor SYSTEM)
 
 add_custom_target(run-all)
 
+add_subdirectory(10-algos)
+
